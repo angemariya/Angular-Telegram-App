@@ -12,5 +12,4 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'angular-tg-app';
-  items = [1,2,3,4,5]
 }
